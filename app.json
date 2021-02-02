@@ -1,7 +1,7 @@
 {
   "name": "Beat Music",
-  "description": "簡単日本語対応zdDiscordの音楽bot",
-  "repository": "https://github.com/Hisana1220/Discord-MusicBot",
+  "description": "簡単操作で日本語対応zdDiscordの音楽bot",
+  "repository": "https://github.com/Hisana1220/mb",
   "logo": "https://cdn.discordapp.com/avatars/750613142488481843/e6326038dbe2243ca551ba5b6ecd8bf2.png?size=1024",
   "keywords": ["node", "discord","Youtube","music","bot"],
   "image": "heroku/nodejs",
